@@ -22,7 +22,7 @@ A mobile-first fintech application featuring biometric authentication, real-time
 * `ExchangeRates`: Stores historical conversion rates for accurate point-in-time net worth calculation.
 
 ## Getting Started
-
+Rishanth Developer 
 ### Prerequisites
 * Node.js v18+
 * Docker & Docker Compose
