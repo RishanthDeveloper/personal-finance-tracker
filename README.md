@@ -26,4 +26,4 @@ Rishanth Developer
 ### Prerequisites
 * Node.js v18+
 * Docker & Docker Compose
-* Plaid API Key
+* Plaid API Keys
